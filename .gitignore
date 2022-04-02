@@ -74,3 +74,11 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+!Content/GameElements/*
+!Content/Prototype/*
+!Content/ThirdPerson/*
+!Content/ThirdPersonBP/*
+!Content/Mannequin/*
+!Content/Characters/*
+Content/*
